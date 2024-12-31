@@ -1,0 +1,18 @@
+{
+	"profiles": [
+		{
+			"vendor": "bbl",
+			"version": "01.01.05.01",
+			"description": "The updates for this preset package are as follows:\n1. Fix the issue where the long retraction feature of A1 and A1 mini did not work properly.",
+			"url": "https://github.com/wujie19910816/elegooSlicer/raw/8be86547dfc8db7722cc17d491bc1d526c183bc7/bbl.profiles.01.01.05.01.zip",
+			"force_update": false
+		},
+		{
+			"vendor": "elegoo",
+			"version": "01.01.05.01",
+			"description": "The updates for this preset package are as follows:\n1. Fix the issue where the long retraction feature of A1 and A1 mini did not work properly.",
+			"url": "https://github.com/wujie19910816/elegooSlicer/releases/download/test/elegoo.profiles.01.01.05.01.zip",
+			"force_update": false
+		}
+	]
+}
